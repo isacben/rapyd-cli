@@ -1,7 +1,7 @@
 import json
 import argparse
 
-from lib.connector import make_request
+from tools.connector import make_request
 
 description = "retrieve a payment"
 
